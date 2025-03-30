@@ -1,0 +1,23 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IFLH08/WEB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IFLH08/WEB/issues"
+  },
+  "homepage": "https://github.com/IFLH08/WEB#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
